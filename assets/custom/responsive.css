@@ -1,0 +1,679 @@
+@media (max-width: 575.98px) {
+  /* Extra small devices (portrait phones) */
+
+  .canvas-header {
+    width: 100%;
+  }
+  .video-overlay-content {
+    top: 18%;
+  }
+
+  .caption-head1 {
+    font-size: 44px;
+    line-height: 44px;
+  }
+
+  .caption-sentence {
+    font-size: 44px;
+    line-height: 54px;
+    font-weight: 700;
+
+    margin-bottom: 40px;
+  }
+  .vision-title {
+    font-size: 42px;
+  }
+  .about-pcap {
+    font-size: 38px;
+  }
+  .about-title {
+    padding: 20px 0;
+    font-size: 42px;
+    line-height: 44px;
+    top: 8%;
+    left: 30px;
+  }
+
+  .service-title {
+    padding: 20px 0;
+    font-size: 48px;
+  }
+
+  .service-head {
+    font-size: 38px;
+    line-height: 44px;
+  }
+
+  .service-desc {
+    font-size: 22px;
+    line-height: 24px;
+  }
+
+  .sec-about1 .para1 {
+    font-size: 22px;
+  }
+
+  .services-img {
+    border-radius: 12px;
+    margin-bottom: 12px;
+    height: auto;
+  }
+
+  .service-tags {
+    font-size: 14px;
+  }
+
+  .btn-explore {
+    font-size: 16px;
+    position: inherit;
+    float: right;
+  }
+  .sec-about2 h5 {
+    font-size: 38px;
+  }
+
+  .sec-about2 .para1 {
+    font-size: 14px;
+  }
+
+  .list-head {
+    font-size: 32px;
+    line-height: 34px;
+  }
+
+  .list-desc {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  .about-title2 {
+    font-size: 42px;
+  }
+
+  .director-name {
+    font-size: 32px;
+    line-height: 30px;
+  }
+  .director-info {
+    font-size: 16px;
+  }
+
+  .about-title2,
+  .about-title3 {
+    font-size: 48px;
+  }
+
+  .team-name {
+    font-size: 24px;
+    line-height: 28px;
+  }
+
+  .team-position {
+    font-size: 18px;
+  }
+  #service-page h5,
+  .sec-strategy1 h5,
+  .sec-strategy2 h5,
+  .sec-strategy3 h5,
+  .sec-strategy4 h5 {
+    font-size: 42px;
+  }
+  #service-page .para1,
+  .sec-strategy1 .para1,
+  .sec-strategy2 .para1,
+  .sec-strategy3 .para1,
+  .sec-strategy4 .para1 {
+    font-size: 18px;
+    padding: 10px 10px 30px;
+  }
+
+  .bg-spinner,
+  .bg-spinner2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 262px;
+    height: 222px;
+  }
+
+  .bg-spinner5 {
+    position: absolute;
+    top: 25%;
+    left: auto;
+    width: 280px;
+    height: 292px;
+  }
+
+  .contact-title {
+    font-size: 42px;
+  }
+
+  .contact-desc {
+    font-size: 14px;
+  }
+  .contact-head {
+    font-size: 24px;
+  }
+
+  .astro-img {
+    animation: rotate 5s linear infinite;
+    transform-origin: center center;
+    height: 320px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .canvas-header {
+    width: 100%;
+  }
+  .astro-img {
+    animation: rotate 5s linear infinite;
+    transform-origin: center center;
+    height: 320px;
+  }
+  /* Small devices (landscape phones) */
+
+  .video-overlay-content {
+    top: 12%;
+  }
+  .banner-img {
+    top: -30%;
+    width: 80%;
+  }
+  .caption-head1 {
+    font-size: 60px;
+    line-height: 62px;
+  }
+
+  .caption-sentence {
+    font-size: 60px;
+    line-height: 70px;
+    font-weight: 700;
+  }
+  .vision-title {
+    font-size: 60px;
+  }
+
+  .about-title {
+    font-size: 60px;
+    line-height: 62px;
+    top: 6%;
+    left: 30px;
+  }
+
+  .services-img {
+    border-radius: 12px;
+    margin-bottom: 12px;
+    height: 360px;
+  }
+  .service-head {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  .service-desc {
+    font-size: 22px;
+    line-height: 26px;
+  }
+
+  .service-tags {
+    font-size: 14px;
+  }
+
+  .btn-explore {
+    font-size: 16px;
+    position: inherit;
+    float: right;
+  }
+
+  .about-list li {
+    padding: 10px 0;
+  }
+  .list-head {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  .list-desc {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  #service-page h5,
+  .sec-strategy1 h5,
+  .sec-strategy2 h5,
+  .sec-strategy3 h5,
+  .sec-strategy4 h5 {
+    font-size: 60px;
+    color: #fff;
+    text-align: center;
+    font-family: "PetrovSans-Regular";
+  }
+
+  #service-page .para1,
+  .sec-strategy1 .para1,
+  .sec-strategy2 .para1,
+  .sec-strategy3 .para1,
+  .sec-strategy4 .para1 {
+    font-size: 20px;
+  }
+
+  .about-pcap {
+    font-size: 44px;
+  }
+
+  .about-img {
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 0 15%;
+  }
+
+  .sec-about1 .para1 {
+    font-size: 32px;
+  }
+
+  .sec-about2 .para1 {
+    font-size: 14px;
+    font-family: "Outfit-Regular";
+    color: #fff;
+  }
+  .sec-about2 h5 {
+    font-size: 42px;
+  }
+  .director-name {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .director-img {
+    height: 260px;
+  }
+  .director-info {
+    font-size: 16px;
+  }
+
+  .about-title2,
+  .about-title3 {
+    font-size: 70px;
+  }
+
+  .team-name {
+    font-size: 22px;
+    line-height: 24px;
+    margin: 3px 0;
+  }
+
+  .bg-spinner2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 392px;
+    height: 352px;
+  }
+
+  .bg-spinner5 {
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    width: 380px;
+    height: 362px;
+  }
+
+  .contact-title {
+    font-size: 42px;
+  }
+
+  .contact-desc {
+    font-size: 14px;
+  }
+  .contact-head {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* Medium devices (tablets) */
+
+  .banner-img {
+    top: -20%;
+  }
+  .caption-head1 {
+    font-size: 70px;
+    line-height: 72px;
+  }
+
+  .caption-sentence {
+    font-size: 70px;
+    line-height: 80px;
+    font-weight: 700;
+  }
+  .vision-title {
+    font-size: 70px;
+  }
+
+  .about-title {
+    font-size: 70px;
+    line-height: 72px;
+    top: 12%;
+  }
+  .service-head {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  .service-desc {
+    font-size: 22px;
+    line-height: 26px;
+  }
+
+  .service-tags {
+    font-size: 14px;
+  }
+
+  .btn-explore {
+    font-size: 16px;
+    position: inherit;
+    float: right;
+  }
+
+  .about-list li {
+    padding: 10px 0;
+  }
+  .list-head {
+    font-size: 32px;
+    line-height: 34px;
+  }
+  .list-desc {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+  #service-page h5,
+  .sec-strategy1 h5,
+  .sec-strategy2 h5,
+  .sec-strategy3 h5,
+  .sec-strategy4 h5 {
+    font-size: 60px;
+    color: #fff;
+    text-align: center;
+    font-family: "PetrovSans-Regular";
+  }
+
+  #service-page .para1,
+  .sec-strategy1 .para1,
+  .sec-strategy2 .para1,
+  .sec-strategy3 .para1,
+  .sec-strategy4 .para1 {
+    font-size: 20px;
+  }
+
+  .about-pcap {
+    font-size: 60px;
+  }
+
+  .about-img {
+    right: 0;
+    bottom: -25%;
+  }
+
+  .sec-about1 .para1 {
+    font-size: 36px;
+  }
+
+  .sec-about2 h5 {
+    font-size: 56px;
+  }
+  .director-name {
+    font-size: 26px;
+    line-height: 30px;
+  }
+  .director-img {
+    height: 260px;
+  }
+  .director-info {
+    font-size: 16px;
+  }
+
+  .about-title2,
+  .about-title3 {
+    font-size: 70px;
+  }
+
+  .team-name {
+    font-size: 22px;
+    line-height: 24px;
+    margin: 3px 0;
+  }
+
+  .bg-spinner2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 392px;
+    height: 352px;
+  }
+
+  .bg-spinner5 {
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    width: 380px;
+    height: 362px;
+  }
+
+  .contact-title {
+    font-size: 58px;
+  }
+
+  .contact-head {
+    font-size: 38px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  /* Large devices (desktops) */
+
+  .banner-img {
+    top: -20%;
+  }
+  .caption-head1 {
+    font-size: 90px;
+    line-height: 105px;
+  }
+
+  .caption-sentence {
+    font-size: 90px;
+    line-height: 104px;
+    font-weight: 700;
+  }
+  .vision-title {
+    font-size: 90px;
+  }
+
+  .about-title {
+    font-size: 90px;
+    line-height: 92px;
+    top: 12%;
+  }
+  .list-head {
+    font-size: 42px;
+    line-height: 44px;
+  }
+  .list-desc {
+    font-size: 18px;
+    line-height: 24px;
+  }
+
+  #service-page h5,
+  .sec-strategy1 h5,
+  .sec-strategy2 h5,
+  .sec-strategy3 h5,
+  .sec-strategy4 h5 {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    font-family: "PetrovSans-Regular";
+  }
+
+  #service-page .para1,
+  .sec-strategy1 .para1,
+  .sec-strategy2 .para1,
+  .sec-strategy3 .para1,
+  .sec-strategy4 .para1 {
+    font-size: 30px;
+  }
+
+  .bg-spinner2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 392px;
+    height: 352px;
+  }
+
+  .bg-spinner5 {
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    width: 380px;
+    height: 362px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* Extra large devices (large desktops) */
+
+  .banner-img {
+    top: -20%;
+  }
+  .caption-head1 {
+    font-size: 105px;
+    line-height: 95px;
+  }
+
+  .caption-sentence {
+    font-size: 110px;
+    line-height: 126px;
+    font-weight: 700;
+  }
+  .vision-title {
+    font-size: 80px;
+  }
+
+  .about-pcap {
+    font-size: 70px;
+  }
+  .about-title {
+    font-size: 110px;
+    line-height: 112px;
+    top: 12%;
+  }
+  .list-head {
+    font-size: 52px;
+    line-height: 54px;
+  }
+  .list-desc {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  #service-page h5,
+  .sec-strategy1 h5,
+  .sec-strategy2 h5,
+  .sec-strategy3 h5,
+  .sec-strategy4 h5 {
+    font-size: 80px;
+    color: #fff;
+    text-align: center;
+    font-family: "PetrovSans-Regular";
+  }
+
+  #service-page .para1,
+  .sec-strategy1 .para1,
+  .sec-strategy2 .para1,
+  .sec-strategy3 .para1,
+  .sec-strategy4 .para1 {
+    font-size: 26px;
+  }
+
+  .bg-spinner2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 392px;
+    height: 352px;
+  }
+
+  .bg-spinner5 {
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    width: 380px;
+    height: 362px;
+  }
+
+  .contact-title {
+    font-size: 70px;
+    padding: 10px 25px 10px;
+  }
+}
+
+@media (min-width: 1400px) {
+  /* Extra extra large devices (4K displays and up) */
+
+  .caption-head1 {
+    font-size: 120px;
+    line-height: 135px;
+  }
+  .caption-sentence {
+    font-size: 120px;
+    line-height: 140px;
+    font-weight: 700;
+  }
+
+  .about-title {
+    font-size: 120px;
+    line-height: 130px;
+    top: 12%;
+  }
+  .list-head {
+    font-size: 52px;
+    line-height: 54px;
+  }
+  .list-desc {
+    font-size: 22px;
+    line-height: 30px;
+  }
+
+  #service-page h5,
+  .sec-strategy1 h5,
+  .sec-strategy2 h5,
+  .sec-strategy3 h5,
+  .sec-strategy4 h5 {
+    font-size: 100px;
+    color: #fff;
+    text-align: center;
+    font-family: "PetrovSans-Regular";
+  }
+
+  #service-page .para1,
+  .sec-strategy1 .para1,
+  .sec-strategy2 .para1,
+  .sec-strategy3 .para1,
+  .sec-strategy4 .para1 {
+    font-size: 30px;
+  }
+
+  .bg-spinner2 {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    width: 392px;
+    height: 352px;
+  }
+
+  .bg-spinner5 {
+    position: absolute;
+    top: 25%;
+    left: 36%;
+    width: 380px;
+    height: 362px;
+  }
+}

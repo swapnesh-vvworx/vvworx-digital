@@ -55,7 +55,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Port       = 587;  
 
         // Recipients
-        $mail->setFrom('leads@ncofficial.com', 'VVWORX Website');  
+        $mail->setFrom('vvworx@ncofficial.com', 'VVWORX Website');  
         $mail->addAddress('swapnesh.dalvi@vvworx.com', 'VVWORX Recipient');   
         $mail->addAddress('reachus@vvworx.com', 'VVWORX');   
 

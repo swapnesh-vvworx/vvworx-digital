@@ -3,8 +3,8 @@
 
   .section-content {
     position: absolute;
-    top: 20%;
-    left: -20px;
+    top: 20% !important;
+    left: -5% !important;
   }
 
   .btn-sidebar {

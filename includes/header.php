@@ -47,9 +47,19 @@ $current_page = basename($_SERVER['REQUEST_URI']);
           <img src="assets/img/logo.svg" class="img-fluid main-logo" alt="logo" >
           </span>
           </a> 
+          <div>
+          <a class="btn call-btn d-none d-sm-inline-block" type="button"  href="tel:918850295464"> 
+             <img src="assets/img/icons/telephone-outbound-w.svg" class="img-fluid call-icon" alt="Call" >
+              88502 95464
+</a>
           <button class="btn btn-menu" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"> 
              <img src="assets/img/menu-icon.png" class="img-fluid menu-icon" alt="Menu Toggle" >
           </button>
+
+          
+
+          
+        </div>
 
         </div>
       </nav>

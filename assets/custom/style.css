@@ -639,6 +639,8 @@ img.btn-ico {
   color: #fff;
   background: linear-gradient(180deg, #be2ff4, #6210ff);
   border-radius: 30px;
+  z-index: 10;
+  position: relative;
 }
 .btn-main img {
   height: 13px;

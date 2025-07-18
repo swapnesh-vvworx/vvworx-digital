@@ -63,7 +63,7 @@ Kalyaninagar, 411032.
     <div class="container-fluid d-block d-sm-none fix-callback">
       <div class="row">
         <div class="col-6">
-          <a href="tel:+919999999999">
+          <a href="tel:+918850295464">
             <img
               src="assets/img/icons/telephone-outbound-w.svg"
               class="img-fluid"
@@ -73,7 +73,7 @@ Kalyaninagar, 411032.
           </a>
         </div>
         <div class="col-6">
-          <a href="https://wa.me/+919999999999?text=Hi%2C%20I'm%20interested%20in%20your%20Digital%20%26%20Creative%20Design%20services.%20Could%20you%20please%20share%20more%20details%20about%20your%20offerings%20and%20how%20we%20can%20get%20started%3F"
+          <a href="https://wa.me/+918850295464?text=Hi%2C%20I'm%20interested%20in%20your%20Digital%20%26%20Creative%20Design%20services.%20Could%20you%20please%20share%20more%20details%20about%20your%20offerings%20and%20how%20we%20can%20get%20started%3F"
                   target="_blank " 
           >
             <img

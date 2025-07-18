@@ -44,6 +44,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     $mail = new PHPMailer(true);
 
+    // print_r($message);
+    // die();
+
     try {
         // Server settings
         $mail->isSMTP();

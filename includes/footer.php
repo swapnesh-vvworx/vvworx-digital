@@ -86,3 +86,64 @@ Kalyaninagar, 411032.
         </div> 
       </div>
     </div>
+
+
+    
+    <!-- Button to Open Modal -->
+<button type="button" class="btn btn-main btn-sidebar" data-bs-toggle="modal" data-bs-target="#enquireModal">
+  Enquire Now
+</button>
+
+<!-- Modal Structure -->
+<div class="modal fade" id="enquireModal" tabindex="-1" aria-labelledby="enquireModalLabel" aria-hidden="true" 
+      data-bs-backdrop="static"
+      data-bs-keyboard="false">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      
+      <!-- Modal Header -->
+      <div class="modal-header">
+        <h5 class="modal-title" id="enquireModalLabel"> I am interested in</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      
+      <!-- Modal Body -->
+      <div class="modal-body">
+        <form class="py-2" method="POST" action="sendmail.php">
+  <div class="mb-3">
+    <select class="form-control" name="services[]">
+      <option value=""> Select Service </option>
+       <option value="Strategy" > Strategy </option>
+            <option value="Branding & Design" > Branding & Design </option>
+            <option value="Content & Production" > Content & Production </option>
+            <option value="Digital Marketing" > Digital Marketing </option>
+            <option value="Agent Vua" > Agent Vua</option>
+            <option value="Agent Vision" > Agent Vision</option>
+            <option value="Agent XR" > Agent XR</option> 
+</select>
+  </div>
+            <div class="mb-3">
+              <input type="text" class="form-control" placeholder="Full Name" name="name" required>
+            </div>
+            <div class="mb-3">
+              <input type="email" class="form-control" placeholder="Email ID" name="email_address" required>
+            </div>
+            <div class="mb-3">
+              <input type="text" class="form-control" placeholder="Company Name" name="company">
+            </div>
+            <div class="mb-3">
+              <input type="tel" class="form-control" placeholder="Phone" name="phone" required>
+            </div>
+            <div class="mb-3">
+              <textarea class="form-control" placeholder="Message" rows="2" name="message"></textarea>
+            </div>
+            <button type="submit" class="btn btn-main">Submit <img src="assets/img/arrow-right.svg" ></button>
+          </form>
+      </div>
+       
+
+    </div>
+  </div>
+</div>
+
+ 

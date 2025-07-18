@@ -1,6 +1,17 @@
 @media (max-width: 575.98px) {
   /* Extra small devices (portrait phones) */
 
+  .section-content {
+    position: absolute;
+    top: 20%;
+    left: -20px;
+  }
+
+  .btn-sidebar {
+    position: fixed;
+    right: -12%;
+    top: 38%;
+  }
   .canvas-header {
     width: 100%;
   }

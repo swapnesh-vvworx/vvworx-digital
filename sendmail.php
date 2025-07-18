@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         // Recipients
         $mail->setFrom('leads@ncofficial.com', 'VVWORX Website');  
         $mail->addAddress('swapnesh.dalvi@vvworx.com', 'VVWORX Recipient');   
-        // $mail->addAddress('reachus@vvworx.com', 'VVWORX');   
+        $mail->addAddress('reachus@vvworx.com', 'VVWORX');   
 
         // Content
         $mail->isHTML(true);

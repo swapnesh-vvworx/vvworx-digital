@@ -49,8 +49,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host       = 'smtp.hostinger.com';  
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'leads@ncofficial.com';  
-        $mail->Password   = 'nCrm@2024'; 
+        $mail->Username   = 'vvworx@ncofficial.com';  
+        $mail->Password   = 'vCrm@2024'; 
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS; 
         $mail->Port       = 587;  
 

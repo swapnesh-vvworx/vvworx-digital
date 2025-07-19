@@ -51,6 +51,10 @@ $current_page = basename($_SERVER['REQUEST_URI']);
           <a class="btn call-btn d-none d-sm-inline-block" type="button"  href="tel:918850295464"> 
              <img src="assets/img/icons/telephone-outbound-w.svg" class="img-fluid call-icon" alt="Call" >
               88502 95464
+</a> <a class="btn call-btn d-none d-sm-inline-block" href="https://wa.me/918850295464?text=Hi,%20I'm%20interested%20in%20your%20Marketing%20Services.%20Could%20you%20please%20share%20more%20details%20about" 
+   target="_blank"  > 
+             <img src="assets/img/icons/whatsapp-w.svg" class="img-fluid call-icon" alt="WhatsApp" >
+              
 </a>
           <button class="btn btn-menu" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight"> 
              <img src="assets/img/menu-icon.png" class="img-fluid menu-icon" alt="Menu Toggle" >
